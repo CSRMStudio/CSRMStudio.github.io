@@ -1,0 +1,9 @@
+# app-ads.txt — Control TV / CSRM Studio
+#
+# Este archivo autoriza a AdMob a vender tu inventario de anuncios y protege contra fraude.
+# DEBE quedar accesible en la RAÍZ del sitio: https://TU-USUARIO.github.io/app-ads.txt
+#
+# PENDIENTE: reemplazar la línea de abajo con tu ID de editor real de AdMob (pub-XXXXXXXXXXXXXXXX),
+# que obtienes en AdMob → Configuración → "ID de editor". Descomenta y completa cuando lo tengas:
+#
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
